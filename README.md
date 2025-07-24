@@ -1,1 +1,48 @@
-# Pizza-sales-Analsis
+# 🍕 Pizza Sales Analysis Dashboard (SQL + Excel + Power BI)
+📌 Project Overview
+This project presents an interactive Pizza Sales Dashboard developed using SQL for data extraction, Excel for data cleaning, and Power BI for data visualization. The goal is to analyze sales trends, customer preferences, and performance metrics from a pizza retail dataset to support data-driven decision-making.
+
+🛠️ Tools & Technologies Used
+SQL: Data extraction, aggregation, and preparation
+Excel: Data cleaning and preprocessing
+Power BI: Interactive dashboard design and insights visualization
+
+🎯 Objectives
+Analyze sales performance using KPIs (revenue, orders, quantity, AOV)
+Identify top-selling pizza types, sizes, and categories
+Discover best-performing days and months for sales
+Understand customer preferences and product demand
+Practice real-world data analytics workflow from raw data to dashboard
+
+📊 Key Insights
+Total Revenue: $817.86K
+Total Orders: 21K+
+Average Order Value: $38.31
+Most Popular Pizza Size: Large
+Best-Selling Category: Classic
+Highest Sales Day: Saturday
+
+📌 Questions Answered
+1. Which pizza category generates the most revenue?
+2. What is the trend of pizza orders by month?
+3. Which day of the week has the highest number of orders?
+4. Which pizza names sell the most in quantity and value?
+5. Which size of pizza is most preferred?
+
+👩‍💻 About Me
+I'm Shalinee Likhitkar, a 3rd-year Computer Science student and aspiring Data Analyst. This project is part of my portfolio, where I applied practical skills to analyze real-world data and create impactful visual stories using industry tools.
+
+📁 Project Files
+ – Raw SQL queries used for data analysis
+Cleaned_Data.xlsx – Excel file with cleaned dataset
+Pizza_Sales_Dashboard.pbix – Power BI dashboard file
+README.md – Project documentation
+
+📬 Let's Connect
+I'm always open to connecting with fellow data enthusiasts, recruiters, and collaborators. Feel free to reach out:
+
+🔗 LinkedIn – Shalinee Likhitkar
+🐦 Twitter (X) – @ShalineeLi25461
+
+Let’s learn, grow, and build data-driven solutions together! 🚀
+
