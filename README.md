@@ -38,6 +38,12 @@ Cleaned_Data.xlsx – Excel file with cleaned dataset
 Pizza_Sales_Dashboard.pbix – Power BI dashboard file
 README.md – Project documentation
 
+
+📸 Dashboard Preview: <img width="1302" height="713" alt="Screenshot 2025-07-24 172743" src="https://github.com/user-attachments/assets/e1e9751e-f7fe-46f4-9bd8-09fd5b08a271" />
+
+
+
+
 📬 Let's Connect
 I'm always open to connecting with fellow data enthusiasts, recruiters, and collaborators. Feel free to reach out:
 
