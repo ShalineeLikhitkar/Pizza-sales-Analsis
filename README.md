@@ -5,7 +5,9 @@ This project presents an interactive Pizza Sales Dashboard developed using SQL f
 
 ## 🛠️ Tools & Technologies Used:
 SQL: Data extraction, aggregation, and preparation. 
+
 Excel: Data cleaning and preprocessing. 
+
 Power BI: Interactive dashboard design and insights visualization. 
 
 
