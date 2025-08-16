@@ -5,25 +5,24 @@ This project presents an interactive Pizza Sales Dashboard developed using SQL f
 
 ## 🛠️ Tools & Technologies Used:
 SQL: Data extraction, aggregation, and preparation.  
-Excel: Data cleaning and preprocessing. 
-
+Excel: Data cleaning and preprocessing.  
 Power BI: Interactive dashboard design and insights visualization. 
 
 
 ## 🎯 Objectives:
-Analyze sales performance using KPIs (revenue, orders, quantity, AOV)
-Identify top-selling pizza types, sizes, and categories
-Discover best-performing days and months for sales
-Understand customer preferences and product demand
-Practice real-world data analytics workflow from raw data to dashboard
+Analyze sales performance using KPIs (revenue, orders, quantity, AOV).  
+Identify top-selling pizza types, sizes, and categories.  
+Discover best-performing days and months for sales.  
+Understand customer preferences and product demand.  
+Practice real-world data analytics workflow from raw data to dashboard.  
 
 
 ## 📊 Key Insights:
-Total Revenue: $817.86K
-Total Orders: 21K+
-Average Order Value: $38.31
-Most Popular Pizza Size: Large
-Best-Selling Category: Classic
+Total Revenue: $817.86K  
+Total Orders: 21K+  
+Average Order Value: $38.31 
+Most Popular Pizza Size: Large  
+Best-Selling Category: Classic  
 Highest Sales Day: Saturday
 
 
@@ -48,8 +47,8 @@ I'm Shalinee Likhitkar, a 3rd-year Computer Science student and aspiring Data An
 ## 📬 Let's Connect:
 I'm always open to connecting with fellow data enthusiasts, recruiters, and collaborators. Feel free to reach out:
 
-🔗 LinkedIn – Shalinee Likhitkar
-🐦 Twitter (X) – @ShalineeLi25461
+🔗 LinkedIn – Shalinee Likhitkar  
+🐦 Twitter (X) – @ShalineeLi25461  
 
 Let’s learn, grow, and build data-driven solutions together! 🚀
 
